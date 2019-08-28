@@ -13,7 +13,6 @@ Next, we provide an introduction to the idea of sampling - selecting a subset of
 From there, we then go on to introduce and calculate confidence intervals, and see how we can use T-distributions to calculate confidence intervals when we don't know the standard deviation of the population.
 
 ## Summary
-## Key Takeaways
 Distributions and sampling - Some of the key takeaways include:
 * There are two types of distributions - continuous, where (subject to measurement and/or storage precision) there are effectively an infinite number of possible values, and discrete, where there are a distinct, non-infinite number of options. For example, a persons height is continuous - assuming a suitably precise tape measure - whereas the number of bedrooms in a house is discrete
 * One type of discrete distribution deals with a series of boolean events or trials - often called Bernoulli Trials
